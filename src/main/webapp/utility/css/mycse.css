@@ -1,0 +1,101 @@
+@charset "ISO-8859-1";
+/*!
+ * Start Bootstrap - Heroic Features (http://startbootstrap.com/template-overviews/heroic-features)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-heroic-features/blob/master/LICENSE)
+ */
+
+body {
+    padding-top: 54px;
+}
+.officalbutton
+{
+	padding-top: 10px;padding-bottom: 15px;
+}
+
+@media (min-width: 992px) {
+    body {
+        padding-top: 56px;
+    }
+}
+
+.card {
+    height: 100%;
+}
+
+.msg {
+    color: green;
+}
+
+.abc {
+	background-color:#700020;
+	}
+        
+.ryt {
+	background-color:greenyellow;
+	}
+        
+.wrong {
+	background-color: lightpink;
+	}
+	
+ .navbar-bottom{
+            
+   border-bottom:1px solid #7d1010;
+        }        
+.xyz {
+	background-color:#fffbec;
+	}
+        
+.welcomestrip
+{
+    background-color:#eaeaea;
+    font-family: Corbel;
+    height:45px;
+    width: 1000px;
+    padding-top: 20px;
+    margin: auto;
+}
+.welcomestrip1
+{
+    margin-top: 5px;
+    float:left;
+    width: 150px;        
+}
+.welcomestrip2
+{
+    float:left;
+    width: 650px;        
+}
+.welcomestrip3
+{
+    float:right; 
+    width: 200px; 
+    margin-top: 5px;
+}
+
+.bluebutton {
+    background: #007abb;
+    border: 1px solid #CCC;
+    padding: 5px 12px 5px 12px;
+    color: white;
+    border-radius: 4px;
+}
+.redbutton {
+    background: #af2d2d;
+    border: 1px solid #CCC;
+    padding: 7px 17px 7px 17px;
+    color: white;
+    border-radius: 4px;
+}
+.bluebutton:hover 
+{
+    color:white;
+    background-color: #025b8a;
+}
+.redbutton:hover 
+{
+    color:white;
+    background-color: #7d1010;
+}
+
